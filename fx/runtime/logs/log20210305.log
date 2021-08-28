@@ -1,0 +1,3 @@
+[INFO][models.go:33]2021/03/05 23:17:12 [Error 1698: Access denied for user 'root'@'localhost']
+[INFO][models.go:33]2021/03/05 23:17:51 [invalid DSN: did you forget to escape a param value?]
+[ERROR][models.go:33]2021/03/05 23:20:25 [invalid DSN: did you forget to escape a param value?]

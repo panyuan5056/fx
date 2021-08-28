@@ -1,0 +1,7 @@
+[ERROR][auth.go:68]2021/03/08 19:15:00 [Token错误]
+[ERROR][auth.go:68]2021/03/08 19:15:20 [Token错误]
+[ERROR][auth.go:68]2021/03/08 19:15:24 [Token错误]
+[ERROR][orm.go:149]2021/03/08 20:38:59 [failed to connect to `host=/private/tmp user=py database=`: failed SASL auth (FATAL: password authentication failed for user "py" (SQLSTATE 28P01))]
+[ERROR][orm.go:149]2021/03/08 20:40:09 [failed to connect to `host=/private/tmp user=py database=`: failed SASL auth (FATAL: password authentication failed for user "py" (SQLSTATE 28P01))]
+[ERROR][orm.go:149]2021/03/08 20:53:59 [failed to connect to `host=/private/tmp user=py database=`: failed SASL auth (FATAL: password authentication failed for user "py" (SQLSTATE 28P01))]
+[ERROR][orm.go:151]2021/03/08 21:31:52 [failed to connect to `host=127.0.0.1 user=postgres database=trader`: failed SASL auth (FATAL: password authentication failed for user "postgres" (SQLSTATE 28P01))]
